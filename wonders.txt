@@ -3,3 +3,7 @@
 name : Taj Mahal
 
 country : India
+
+name : The Great Wall of China
+
+country : China
